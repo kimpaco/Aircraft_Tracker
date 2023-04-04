@@ -12,3 +12,6 @@ The next version will allow you to select which aircraft to track by providing t
 
 LICENSE:
 This is an excercise from the MIT Full Stack Development Course.
+This code was done by Francisco Robles (myself) and I allow for it to be copied or forked onto you own repository for academic purposes.
+The mapping API was provided by mapbox.
+The air traffic API is provided by Sergey from airlabs.
